@@ -1,0 +1,95 @@
+name: password_manager
+description: Never forget a password again
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get: ^4.6.6
+  get_storage: ^2.1.1
+  font_awesome_flutter: ^10.5.0
+  flutter_animate: ^4.2.0+1
+  google_fonts: ^5.1.0
+  animated_bottom_navigation_bar: ^1.3.0
+  sliding_up_panel2: ^3.2.0+2
+  sqflite: ^2.3.0
+  intl:
+  path:
+  flutter_iconpicker: ^3.2.4
+  flex_color_picker: ^3.3.0
+  awesome_dialog: ^3.1.0
+  flutter_slidable: ^3.0.0
+  password_generator: ^1.0.0
+  day_night_switcher: ^0.2.0+1
+  animated_toggle_switch: ^0.8.0
+  encrypt: ^5.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/icons/boarding/
+
+
+  fonts:
+    - family: ARB
+      fonts:
+        - asset: assets/fonts/ARB.ttf
+    - family: CloisterBlack
+      fonts:
+        - asset: assets/fonts/CloisterBlack.ttf
+    - family: Oldengl
+      fonts:
+        - asset: assets/fonts/Oldengl.ttf
+    - family: dameron
+      fonts:
+        - asset: assets/fonts/dameron.ttf
+    - family: ocr-a
+      fonts:
+        - asset: assets/fonts/OCR-A-regular.ttf
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
